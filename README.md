@@ -1,4 +1,4 @@
- ## This is a fork of a project that me and my team (https://github.com/jfilm/zombie-time, https://github.com/Beidah) have created during the [Mintbean](https://tinyurl.com/yhbpr783) one week hackathon at August 2021. 
+ ## This is a fork of a project that me and my team (https://github.com/jfilm/zombie-time, https://github.com/Beidah) have created during the [Mintbean](https://tinyurl.com/yhbpr783) one week hackathon at August 2021.  
  
  ![Zombie Time Logo one](/src/assets/images/player/front-right.png) ![Zombie Time Logo two](/src/assets/images/zombie/zombie.png)
 
