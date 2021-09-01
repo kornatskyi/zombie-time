@@ -38,7 +38,7 @@ npm run start
 
 ## Live Site
 
-[![Live Site](/assets/images/game-instrucions/game-instrucions.svg)](https://kornatskyi.github.io/zombie-time/)
+[![Live Site](https://kornatskyi.github.io/zombie-time/assets/images/game-instrucions/game-instrucions.svg)](https://kornatskyi.github.io/zombie-time/)
 
 ---
 
