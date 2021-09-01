@@ -78,6 +78,19 @@ header {
                 0 0 20px #fff;
         }
     }
+
+    @media (max-width: 560px) {
+        margin-top: 70px;
+        
+    }
+}
+
+.screenSizeMessage {
+    color: white;
+    font-family: 'Risque', cursive;
+    letter-spacing: 3px;
+    margin: 20px;
+    
 }
 
 .gameDashboard {
@@ -260,14 +273,4 @@ header {
     }
 
 
-}
-
-.gameInstructions {
-    img {
-        padding: 0 30px;
-        width  : 100%;
-    }
-
-
-    margin-bottom: 40px;
 }
